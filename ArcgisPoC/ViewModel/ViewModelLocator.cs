@@ -13,6 +13,7 @@
 */
 
 using CommonServiceLocator;
+using GalaSoft.MvvmLight;
 using GalaSoft.MvvmLight.Ioc;
 
 namespace ArcgisPoC.ViewModel

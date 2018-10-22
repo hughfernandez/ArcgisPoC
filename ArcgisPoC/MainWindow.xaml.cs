@@ -245,8 +245,8 @@ namespace ArcgisPoC
             //MessageBox.Show(stringPoint);
 
             //AddSimpleMarker(mapClickPoint);
-            AddPictureMarker(mapClickPoint);
-            AddCallOut(mapClickPoint);
+            //AddPictureMarker(mapClickPoint);
+            //AddCallOut(mapClickPoint);
         }
 
         private void AddCallOut(MapPoint mapClickPoint)
